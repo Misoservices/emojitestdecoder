@@ -1,6 +1,6 @@
 # emojitestdecoder
 
-## Simple code to decode Unicode emoji-test.txt annotations
+## Simple code to decode Unicode emoji-test.txt
 
 In https://www.unicode.org/Public/emoji/ , you can retrieve emoji-test.txt file for ordering and groupings of emoji.
 
